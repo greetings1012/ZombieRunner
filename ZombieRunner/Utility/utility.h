@@ -6,5 +6,5 @@
 void SetCurrentCursorPos(int x, int y);
 COORD GetCurrentCursorPos(void);
 void RemoveCursor(void);
-
+void changeColor(int colorNum);
 #endif  
